@@ -1,0 +1,12 @@
+(((((Mycobacterium_marseillense:0.00745000,Mycobacterium_mantenii:0.00745000)'14':0.00901000,Mycobacterium_kansasii:0.01646000)'13':0.20721000,(Mycobacterium_tuberculosis:0.01417000,Mycobacterium_shottsii:0.01417000)'25':0.20950000)'37':1.14257000,Mycobacterium_heckeshornense:1.36624000)'36':27.83296000,(Mycolicibacterium_gilvum:1.98728000,Mycolicibacterium_vanbaalenii:1.98728000)'35':27.21192000);
+
+
+Mycobacterium_shottsii  https://github.com/mahmoudkotb556/IDENTIFY-TYPE-OF-MYCOBACTERIAL/raw/main/AP022572.1.fasta.gz
+Mycobacterium_mantenii  https://github.com/mahmoudkotb556/IDENTIFY-TYPE-OF-MYCOBACTERIAL/raw/main/AP022590.1.fasta.gz
+Mycobacterium_heckeshornense  https://github.com/mahmoudkotb556/IDENTIFY-TYPE-OF-MYCOBACTERIAL/raw/main/AP024310.1.fasta.gz
+Mycobacterium_marseillense  https://github.com/mahmoudkotb556/IDENTIFY-TYPE-OF-MYCOBACTERIAL/raw/main/CP023147.1.fasta.gz
+Mycobacterium_tuberculosis  https://github.com/mahmoudkotb556/IDENTIFY-TYPE-OF-MYCOBACTERIAL/raw/main/NC_000962.3.fasta.gz
+Mycolicibacterium_vanbaalenii  https://github.com/mahmoudkotb556/IDENTIFY-TYPE-OF-MYCOBACTERIAL/raw/main/NC_008726.1.fasta.gz
+Mycolicibacterium_gilvum  https://github.com/mahmoudkotb556/IDENTIFY-TYPE-OF-MYCOBACTERIAL/raw/main/NC_014814.1.fasta.gz
+Mycobacterium_kansasii  https://github.com/mahmoudkotb556/IDENTIFY-TYPE-OF-MYCOBACTERIAL/raw/main/NC_022663.1.fasta.gz
+
